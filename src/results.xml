@@ -1,0 +1,6 @@
+<testsuites name="results">
+  <testsuite name="all" package="all">
+    <property name="random_seed" value="1669923340" />
+    <testcase name="test_rotaryenc" classname="test" file="/home/beagle/tt02-submission-rotary-encoder-counter/src/test.py" lineno="8" time="0.0930483341217041" sim_time_ns="6225000.001" ratio_time="66900714.12625087" />
+  </testsuite>
+</testsuites>
